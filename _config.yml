@@ -1,0 +1,35 @@
+title: "Javier González"
+author: "Javier González"
+description: "this is blablblab"
+#subheading: "Really cool blog about ... something"
+more: "read more"
+url: "http://javiergonzalezh.github.io"
+#baseurl: "/contrast" # comment out if in root directory
+
+comments:
+    disqus: "javiergonzalezh"
+    #    isso: "javiergonzalezh.org"
+
+style:
+#    body: "whitesmoke"
+    padding: 33%
+    anchor: "#46f"
+    serif-heading: true
+    nav: "#181818"
+#    headline: "#06f"
+    description: "white"
+    article:
+        odd: "#ffffff"
+        even: "#222222"
+
+links:
+  - github: "https://github.com/javiergonzalezh"
+#  - twitter: "https://twitter.com/me/"
+  - linkedin: "https://uk.linkedin.com/pub/javier-gonzalez/47/5b6/544"
+#  - google-plus: "https://plus.google.com/+me"
+  - ResearchGate: "https://www.reddit.com/user/me/"
+#  - youtube: "https://www.youtube.com/user/me"
+#  - steam: "http://steamcommunity.com/id/me/"
+
+excerpt_separator: "\n\n\n"
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
