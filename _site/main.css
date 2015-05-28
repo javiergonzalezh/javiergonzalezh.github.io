@@ -94,16 +94,6 @@ h1, h2, h3, h4, h5, h6 {
   header h1, header h2, header h3, header h4, header h5, header h6 {
     text-transform: uppercase; }
 
-body > div:first-of-type {
-  background: #00f;
-  color: white; }
-  body > div:first-of-type h1 {
-    padding-top: 1em;
-    padding-bottom: 1em; }
-
-nav ul {
-  margin: 0; }
-
 article:nth-of-type(even) {
   background: #222222;
   color: white;
