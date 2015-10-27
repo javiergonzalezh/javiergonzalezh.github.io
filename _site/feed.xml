@@ -1,3 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Theme by Niklas Buschmann <http://github.com/niklasbuschmann> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    
+    <meta name="description" content="this is blablblab">
+    <title>Javier González</title>
+    <link rel="canonical" href="http://javiergonzalezh.github.io/feed.xml">
+    <link href="/main.css" rel="stylesheet" type="text/css">
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,200italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+    <link rel="alternate" type="application/rss+xml" title="Javier González &raquo; Feed" href="/feed.xml">
+    
+    
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Javier González</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li><li><a href="/archive1_publications.html">Publications</a></li><li><a href="/archive2_talks.html">Talks</a></li><li><a href="/archive3_software.html">Software</a></li><li><a href="/archive4_teaching.html">Teaching</a></li><li><a href="/archive5_contact.html">Short Bio</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    
+    <article>
+      <header>
+        <h2><a href="/feed.xml"></a></h2>
+        <p></p>
+      </header>
+      <div>
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -5,8 +40,8 @@
     <description>this is blablblab</description>
     <link>http://javiergonzalezh.github.io</link>
     <atom:link href="http://javiergonzalezh.github.iofeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 May 2015 00:21:44 +0100</pubDate>
-    <lastBuildDate>Tue, 19 May 2015 00:21:44 +0100</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2015 20:04:37 -0500</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2015 20:04:37 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,7 +50,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8ZmFEFO72gA&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/8ZmFEFO72gA/0.jpg&quot; alt=&quot;8ZmFEFO72gA&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Feb 2015 22:37:00 +0000</pubDate>
+        <pubDate>Wed, 25 Feb 2015 17:37:00 -0500</pubDate>
         <link>http://javiergonzalezh.github.io/education/2015/02/25/example.html</link>
         <guid isPermaLink="true">http://javiergonzalezh.github.io/education/2015/02/25/example.html</guid>
         
@@ -32,7 +67,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Hz1fyhVOjr4&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/Hz1fyhVOjr4/0.jpg&quot; alt=&quot;Hz1fyhVOjr4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Feb 2015 22:37:00 +0000</pubDate>
+        <pubDate>Fri, 20 Feb 2015 17:37:00 -0500</pubDate>
         <link>http://javiergonzalezh.github.io/science/2015/02/20/example.html</link>
         <guid isPermaLink="true">http://javiergonzalezh.github.io/science/2015/02/20/example.html</guid>
         
@@ -43,3 +78,16 @@
     
   </channel>
 </rss>
+
+      </div>
+      
+      
+    </article>
+
+    <footer>
+      <span><a href="http://javiergonzalezh.github.io">Javier González</a></span>
+      <span><a href="https://github.com/javiergonzalezh"><i class="fa fa-github-square"></i></a><a href="https://uk.linkedin.com/pub/javier-gonzalez/47/5b6/544"><i class="fa fa-linkedin-square"></i></a><a href="https://www.reddit.com/user/me/"><i class="fa fa-ResearchGate-square"></i></a></span>
+      <span>&copy; 2015</span>
+    </footer>
+  </body>
+</html>
