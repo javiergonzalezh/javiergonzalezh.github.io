@@ -40,8 +40,8 @@
     <description>this is blablblab</description>
     <link>http://javiergonzalezh.github.io</link>
     <atom:link href="http://javiergonzalezh.github.iofeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Nov 2015 22:11:41 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2015 22:11:41 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Feb 2016 22:08:30 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Feb 2016 22:08:30 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -50,7 +50,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8ZmFEFO72gA&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/8ZmFEFO72gA/0.jpg&quot; alt=&quot;8ZmFEFO72gA&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Feb 2015 17:37:00 -0500</pubDate>
+        <pubDate>Wed, 25 Feb 2015 22:37:00 +0000</pubDate>
         <link>http://javiergonzalezh.github.io/education/2015/02/25/example.html</link>
         <guid isPermaLink="true">http://javiergonzalezh.github.io/education/2015/02/25/example.html</guid>
         
@@ -67,7 +67,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Hz1fyhVOjr4&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/Hz1fyhVOjr4/0.jpg&quot; alt=&quot;Hz1fyhVOjr4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Feb 2015 17:37:00 -0500</pubDate>
+        <pubDate>Fri, 20 Feb 2015 22:37:00 +0000</pubDate>
         <link>http://javiergonzalezh.github.io/science/2015/02/20/example.html</link>
         <guid isPermaLink="true">http://javiergonzalezh.github.io/science/2015/02/20/example.html</guid>
         
@@ -87,7 +87,7 @@
     <footer>
       <span><a href="http://javiergonzalezh.github.io">Javier González</a></span>
       <span><a href="https://github.com/javiergonzalezh"><i class="fa fa-github-square"></i></a><a href="https://uk.linkedin.com/pub/javier-gonzalez/47/5b6/544"><i class="fa fa-linkedin-square"></i></a><a href="https://www.reddit.com/user/me/"><i class="fa fa-ResearchGate-square"></i></a></span>
-      <span>&copy; 2015</span>
+      <span>&copy; 2016</span>
     </footer>
   </body>
 </html>
