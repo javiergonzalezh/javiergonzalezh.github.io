@@ -1,0 +1,58 @@
+
+
+Journal Papers
+   Ernst C. Wit, Luigi Augugliaro, Hassan Pazira, Javier González and Fenraw Abegaz. Sparse Relative Risk Regression Models. \emph{Accepted in Biosatatistics, 2018.}
+   Babak M. S. Arani, Mahdi Mahmoudi, Leo Lahti, Javier Gonzalez and Ernst Wit. Stability estimation of auto-regulated genes under Michaelis-Menten type kinetics. \emph{Physical Review E, 97, 062407, 2018. }
+   Javier González, Alberto Muñoz, Gabriel Martos. Asymmetric latent semantic indexing for gene expression experiments visualization. \emph{Journal of Bioinformatics and Computational Biology 14 (04), 1650023, 2016.}
+   Ivan Vujacic, Ittai Dattner, Javier González and Ernst Wit. Time-Course Window Estimator for Ordinary Differential Equations Linear in the Parameters. \emph{Statistics and Computing, 25:1057, 2015. }
+   Georges E Janssens, Anne C Meinema, Javier González, Justina C Wolters, Alexander Schmidt, Victor Guryev, Rainer Bischoff, Ernst C Wit, Liesbeth M Veenhoff and Matthias Heinemann. Protein biogenesis machinery is a driver of replicative aging in yeast. \emph{eLife 2015;4:e08527, 2015.}
+   Gabriel Martos, Alberto Muñoz and Javier González. Level Sets Based Distances for Probability Measures and Ensembles with Applications. \emph{arXiv:1504.01664, 2015.}
+   Daphne H. E. W. Huberts, Javier González, Sung Sik Lee, Athanasios Litsios, Georg Hubmann, Ernst C. Wit, and Matthias Heinemann. Calorie restriction does not elicit a robust extension of replicative lifespan in Saccharomyces cerevisiae. \emph{Proceedings of the National Academy of Sciences (PNAS), 201410024; DOI: 10.1073/pnas.1410024111, 2014.}
+   Javier González, Ivan Vujacic and Ernst Wit. Reproducing kernel Hilbert space based estimation of systems of ordinary differential equations. \emph{Pattern Recognition Letters, 45(1), 26–32, 2014.}
+   Gabriel Martos, Alberto Muñoz and Javier González. Generalizing the Mahalanobis Distance via Density Kernels. \emph{Intelligent Data Analysis, 18, 519-531, 2014. }
+   Javier González, Ivan Vujacic and Ernst Wit. Inferring latent gene regulatory network kinetics. \emph{Statistical Applications in Genetics and Molecular Biology, Vol. 12, Issue 1, pp. 109–127, 2013.}
+   Javier González and Alberto Muñoz. Functional Data Analysis techniques to improve similarity matrices in discrimination problems. \emph{Journal of Multivariate Analysis, 120, pp. 120–134, 2013. }
+   Daphne H. E. W. Huberts, Sung Sik Lee, Javier González, Georges E. Janssens, Ima Avalos Vizcarra and Matthias Heinemann. A microfluidic dissection platform for long-term imaging of dynamic cellular processes in budding yeast. \emph{Nature Protocols, 8, pp. 1019–1027, 2013. }
+   Alberto Muñoz and Javier González. Hierarchical Latent Semantic Class Extraction Using Asymmetric Term Similarities. \emph{Behaviormetrika,  Special  issue  on:  Asymmetric multidimensional scaling. Vol 39, No.1, pp. 1-19, 2012}
+   Javier González, Daniel Peña and Rosario Romera. A robust partial Least Squares Regression Method with applications. \emph{Journal of Chemometrics, 23, pp. 78-90, 2009.}
+
+Conference Proceedings
+    Xiaoyu Lu, Javier González, Zhewen Dai and Neil Lawrence. Structured Variationally Auto-encoded optimization. \emph{Proceedings of the 35th International Conference on Machine Learning (ICML), PMLR 80:3267-3275, 2018. }
+    Eero Siivola, Aki Vehtari, Jarno Vanhatalo and Javier González. Correcting boundary over-exploration deficiencies in Bayesian optimization with virtual derivative sign observations. \emph{IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP), 2018. }
+    Rodolphe Jenatton, Cedric Archambeau, Javier González and Matthias Seeger. Bayesian Optimization with Tree-structured Dependencies. \emph{Proceedings of the 34th International Conference on Machine Learning (ICML), PMLR 70:1655-1664, 2017.}
+    Javier González, Zhenwen Dai, Andreas Damianou and Neil Lawrence. Preferential Bayesian optimiztion. \emph{Proceedings of the 34th International Conference on Machine Learning (ICML), PMLR 70:1282-1291, 2017.}
+    Zhenwen Dai, Andreas Damianou, Javier González and Neil Lawrence. Variational Auto-encoded Deep Gaussian Processes. \emph{ International Conference on Learning Representations (ICLR), 2016.}
+    Javier González, Michael Osborne and Neil D. Lawrence. GLASSES: Relieving The Myopia Of Bayesian Optimisation. \emph{Artificial Intelligence and Statistics (AISTATS), PMLR 51:790-799, 2016.}
+    Javier González, Zhenwen Dai, Philipp Hennig and Neil D. Lawrence. Artificial Intelligence and Statistics (AISTATS), PMLR 51:648-657, 2016. \emph{Artificial Intelligence and Statistics (AISTATS), PMLR 51:790-799, 2016.}
+    Javier González, Ivan Vujavcic and Ernst Wit. Reproducing kernel Hilbert space based estimation of ODE models in system biology. Proceedings of the Eighth IAPR International Conference on Pattern Recognition in Bioinformatics (PRIB), 2013.}
+    Gabriel Martos, Alberto Muñoz, Javier González. On the Generalization of the Mahalanobis Distance. \emph{(CIARP'13) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. Lecture Notes in Computer Science, Volume 8258, pp 125-132, 2013. }
+    Alberto Muñoz, Gabriel Martos, Javier González. A New Distance for Data Sets in a Reproducing Kernel Hilbert Space Context. \emph{(CIARP'13) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. Lecture Notes in Computer Science, Volume 8258, pp 222-229, 2013.}
+    Alberto Muñoz, Gabriel Martos, Javier Arriero, Javier González. A New Distance for Probability Measures based on the Estimation of Level Sets. \emph{(ICANN'12) Springer Berlin Heidelberg. Artificial Neural Networks and Machine Learning. Lecture Notes in Computer Science. Volume 7553, 2012, pp  271-278, 2012.}
+    Alberto Muñoz and Javier González. Representing Functional data with Support Vector Machines. \emph{Pattern Recognition Letters, 31(6) pp. 511-516, 2010. }
+    Alberto Muñoz and Javier González. Finite Dimensional Representation of Functional Data with Applications. \emph{(IFCS'10) Springer Berlin Heidelberg. Classification as a Tool for Research Studies in Classification, Data Analysis, and Knowledge Organization 2010, pp 157-165, 2010. }
+    Javier González and Alberto Muñoz. Combining Functional Data Projections for Time Series Classification. \emph{(CIARP'09) Springer Berlin Heidelberg. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. Lecture Notes in Computer Science. Volume 5856, 2009, pp 457-464, 2009. }
+    Alberto Muñoz and Javier González. Functional Learning of Kernels for Information Fusion Purposes. \emph{(CIARP'08) Springer Berlin Heidelberg. Progress in Pattern Recognition, Image Analysis and Applications. Lecture Notes in Computer Science . Volume 5197, 2008, pp 277-283, 2008. }
+    Javier González and Alberto Muñoz. Representing Functional Data using Support Vector Machines. \emph{(CIARP'08) Springer Berlin Heidelberg. Progress in Pattern Recognition, Image Analysis and Applications.  Lecture Notes in Computer Science. Volume 5197, 2008, pp 332-339, 2008.}
+    Alberto Muñoz and Javier González. Joint Diagonalization of Kernels for Information Fusion. \emph{(CIARP'07) Springer Berlin Heidelberg. Progress in Pattern Recognition, Image Analysis and Applications. Lecture Notes in Computer Science.  Volume 4756, 2007, pp 556-563, 2007. }
+    Javier González and Alberto Muñoz. Spectral measures for kernel matrices comparison. \emph{(ICANN'07) Springer Berlin Heidelberg. Artificial Neural Networks. Lecture Notes in Computer Science.  Volume 4668, 2007, pp 727-736, 2007.}
+    Alberto Muñoz, Javier González and Isaac Martín de Diego. 2006.  Local Linear Approximation for Kernel Methods: The Railway Kernel. (CIARP'06) Springer Berlin Heidelberg. \emph{Progress in Pattern Recognition, Image Analysis and Applications. Lecture Notes in Computer Science.  Volume 4225, 2006, pp 936-944, 2006.}
+
+
+
+Workshops
+    Xiaoyu Lu, Javier González, Zhewen Dai and Neil Lawrence. Probabilistic Optimization with Latent Search for Automatic Model Selection. \emph{NIPS Workshop in Bayesian optimization for Science and Engineering, 2017.}
+    Eero Siivola, Aki Vehtari, Jarno Vanhatalo and Javier González. Bayesian optimization with virtual derivative sign observations. \emph{NIPS Workshop in Bayesian optimization for Science and Engineering, 2017.}
+    Javier González, Zhenwen Dai, Andreas Damianou and Neil Lawrence. Bayesian Optimisation with Pairwise Preferential Returns. \emph{NIPS Workshop in Bayesian Optimization, 2016.}
+    Javier González, Michael Osborne and Neil D. Lawrence. GLASSES: Relieving The Myopia Of Bayesian Optimisation). \emph{NIPS Workshop in Bayesian Optimization, 2015.}
+    Javier González, Joseph Longworth, Josselin Noirel, Paul Dobson, Mark Dickman, David C. James and Neil D. Lawrence. In Silico Design of Synthetic Genes for Total Cell Translation Control: a Multi-output Gaussian Processes approach. \emph{NIPS Workshop in Computational Biology, 2015.}
+    Javier González, Zhenwen Dai, Philipp Hennig and Neil D. Lawrence. Batch Bayesian Optimization via Local Penalization. \emph{NIPS Workshop in Bayesian Optimization, 2015. }
+    Ernst Wit, Luigi Augugliaro, Fentaw Abegaz and Javier González. DgCox: a differential geometric approach for high-dimensional Cox proportional hazard models. \emph{Eleventh International Meeting on Computational Intelligent Methods for Bioinformatics and Biostatistics (CIBB), 2014.}
+    Javier González, Joseph Longworth, David James, Neil Lawrence. Bayesian Optimization for synthetic gene design. \emph{NIPS Workshop in Bayesian Optimization, 2014.}
+    Ernst Wit, Ivan Vujacic, Javier González. Inference of non-linear ODE dynamics. \emph{International Workshop on Statistical Modelling (IWSL), vol.2, pp. 465-474, 2013. }
+
+Chapters in Books
+    Alberto Muñoz, Javier González and Javier Arriero. Kernel Latent Semantic Analysis using Term Fusion Kernels. \emph{Support Vector Machines: Data Analysis, Machine Learning and Applications. NOVA Science, 103-116, 2010.}
+
+
+Thesis
+    Javier González. Representing Functional Data in Reproducing Kernel Hilbert Spaces with Applications to Clustering, Classification and Time Series Problems. \emph{PhD Thesis, University Carlos III of Madrid, 2010.}
