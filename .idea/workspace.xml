@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c1266ad-01c5-4f79-98a6-c3106c3c4201" name="Default Changelist" comment="" />
+    <list default="true" id="6c1266ad-01c5-4f79-98a6-c3106c3c4201" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/publications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="135">
+              <caret line="9" column="225" lean-forward="true" selection-start-line="9" selection-start-column="225" selection-end-line="9" selection-end-column="225" />
             </state>
           </provider>
         </entry>
@@ -159,7 +161,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-182" y="23" width="1436" height="877" extended-state="0" />
+    <frame x="-491" y="23" width="1436" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17597173" />
@@ -208,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publications.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="135">
+          <caret line="9" column="225" lean-forward="true" selection-start-line="9" selection-start-column="225" selection-end-line="9" selection-end-column="225" />
         </state>
       </provider>
     </entry>
